@@ -1,0 +1,60 @@
+{
+  "name": "aliquidfugiat",
+  "version": "1.0.0",
+  "description": "Wrapper for bitcoin exchange apis. The easiest way to add cryptocurrency market data into your application!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraxtonHermann/aliquidfugiat.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "etherium",
+    "litecoin",
+    "zcash",
+    "dash",
+    "repudiandae",
+    "aliquam",
+    "eth",
+    "ducimus",
+    "reiciendis",
+    "cash",
+    "totam",
+    "dolor",
+    "bch",
+    "bitcon average",
+    "bitconaverage",
+    "unde",
+    "currency",
+    "cryptocurrency",
+    "crypto-currency",
+    "market",
+    "ut",
+    "price",
+    "bitfinex",
+    "sit",
+    "laboriosam",
+    "btc-e",
+    "poloniex",
+    "kraken",
+    "okcoin",
+    "dignissimos",
+    "rem",
+    "coins",
+    "bit",
+    "quam",
+    "maxime"
+  ],
+  "author": "KirkFerry",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
